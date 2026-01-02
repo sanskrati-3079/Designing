@@ -1,0 +1,239 @@
+
+ Lead Management & CRM Dashboard (Wireframe-Based)
+
+
+
+ 1. Project Overview
+
+Project Name: Lead Management & CRM Dashboard
+Client Type: B2B / Sales / CRM Platform
+Designer Role: UI/UX Designer (UX Strategy, Wireframing, Interaction Design)
+Platform: Responsive Web Application
+
+# Objective
+
+To design a structured, efficient, and user-friendly lead management system that helps sales teams track, manage, and convert leads while gaining clear performance insights through dashboards and filters.
+
+
+
+ 2. Problem Statement
+
+Sales teams often face challenges such as:
+
+. Scattered lead information
+. Manual tracking and follow-ups
+. Poor visibility into lead status and salesperson performance
+. Time-consuming filtering and searching
+
+Design Goal: Create a centralized CRM interface that simplifies lead tracking, improves sales productivity, and provides actionable insights with minimal effort.
+
+
+
+ 3. Target Users & Personas
+
+# Primary Users
+
+1. Sales Executives – Managing daily leads & follow-ups
+2. Sales Managers – Monitoring team performance
+3. Business Owners – Tracking conversion metrics
+
+# User Needs
+
+. Quick access to lead details
+. Easy lead creation & updates
+. Clear lead status visibility
+. Performance analytics
+. Efficient filtering & search
+
+
+
+ 4. User Journey
+
+1. Login to Dashboard
+   ↓
+2. View Key Metrics & Lead Status Overview
+   ↓
+3. Browse Lead List
+   ↓
+4. Filter / Search Specific Leads
+   ↓
+5. View, Edit, or Add Lead
+   ↓
+6. Update Status & Daily Notes
+
+
+
+ 5. Information Architecture
+
+# Primary Navigation
+
+. Dashboard
+. Lead List
+. Add New Lead
+. Lead Details
+. Profile
+
+# Filters & Controls
+
+. Lead Status
+. Category
+. Date / Duration
+. Assigned Salesperson
+. Search
+
+
+
+ 6. Design System (Wireframe Level)
+
+# Layout Principles
+
+. Grid-based structure
+. Left-to-right information flow
+. Table-driven data presentation
+
+# Typography
+
+. Clear sans-serif
+. Emphasis on names & statuses
+
+# UI Principles
+
+. Speed & efficiency
+. Data-first design
+. Minimal distractions
+. Consistency across screens
+
+
+
+ 7. Screen-wise UX Breakdown
+
+# 7.1 Dashboard Screen
+
+Purpose: High-level sales performance overview
+
+Key Elements:
+
+. Total leads
+. Contacted leads
+. Converted leads
+. Uninterested leads
+. Lead status distribution
+
+UX Decisions:
+
+. Metrics placed at the top for instant visibility
+. Status breakdown to identify bottlenecks
+
+
+
+# 7.2 Lead Listing Screen
+
+Purpose: Central lead management view
+
+Key Elements:
+
+. Lead table (Name, Contact, Email, Status, Date, Assigned Salesperson)
+. Filters & search bar
+. Pagination
+
+UX Strategy:
+
+. Table layout for quick scanning
+. Filters placed above the list
+. Status tags for visual clarity
+
+
+
+# 7.3 Lead Details View
+
+Purpose: Deep dive into individual lead
+
+Content:
+
+. Personal details
+. Lead status
+. Assigned salesperson
+. Daily updates / notes
+
+UX Rationale:
+
+. Grouped information blocks
+. Editable fields with clear CTAs
+. Notes section for ongoing communication tracking
+
+
+
+# 7.4 Add / Edit Lead Screen
+
+Purpose: Fast lead creation & modification
+
+Fields:
+
+. Full name
+. Email
+. Contact number
+. Lead status
+. Category
+. Assigned salesperson
+. Date
+
+UX Decisions:
+
+. Simple form layout
+. Logical field order
+. Save & edit actions clearly separated
+
+
+
+ 8. Interaction Design
+
+. Status change via dropdowns
+. Inline edit options
+. Clear VIEW / EDIT buttons
+. Visual confirmation on save
+
+
+
+ 9. Accessibility & Usability Considerations
+
+. Clear labels for form fields
+. Consistent status indicators
+. Keyboard-friendly navigation
+. Readable spacing for dense data
+
+
+
+ 10. Scalability Considerations
+
+. Modular lead cards
+. Expandable filters
+. Support for large lead volumes
+. Future CRM integrations
+
+
+
+ 11. Tools Used
+
+. Wireframing: Figma
+. UX Planning: User flow & IA diagrams
+
+
+
+ 12. Future Enhancements
+
+. Automation for follow-ups
+. Lead scoring system
+. Sales performance analytics
+. Role-based access control
+. CRM & email integration
+
+
+
+ 13. Conclusion
+
+This wireframe-driven UI/UX design focuses on operational efficiency, clarity, and scalability. It empowers sales teams with structured workflows, real-time visibility, and simplified lead management—laying a strong foundation for a full-featured CRM product.
+
+
+
+Designed by: Sanskrati Agrawal
+Role: UI/UX Designer
