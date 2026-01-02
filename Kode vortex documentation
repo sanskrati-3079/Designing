@@ -1,0 +1,249 @@
+ Kode Vortex – EdTech, Training & Internship Platform
+
+
+
+ 1. Project Overview
+
+Project Name: Kode Vortex – Learning, Training & Internship Platform
+Client Type: EdTech + Software Services Company
+Designer Role: UI/UX Designer (UX Research, Information Architecture, UI Design)
+Platform: Responsive Website (Desktop, Tablet, Mobile)
+
+ Objective
+
+To design a comprehensive and engaging digital platform that promotes Kode Vortex’s training programs, internships, and software services while guiding students and professionals toward the right career path.
+
+
+
+ 2. Problem Statement
+
+Learners and early professionals often face:
+
+. Confusion about career paths
+. Lack of industry-aligned training
+. Difficulty finding meaningful internships
+. Low trust in training institutes
+
+Design Goal: Create a trustworthy, student-centric platform that clearly communicates offerings, builds credibility, and converts visitors into applicants, learners, and clients.
+
+
+
+ 3. Target Users & Personas
+
+ Primary Users
+
+1. College Students – Seeking internships & training
+2. Fresh Graduates – Career-focused upskilling
+3. Working Professionals – Skill enhancement
+4. Institutions & Corporates – Training & software services
+
+ User Needs
+
+. Clear course & internship details
+. Career guidance
+. Easy application process
+. Proof of credibility
+. Simple contact & support
+
+
+
+ 4. User Journey
+
+1. Landing on Homepage
+   ↓
+2. Exploring Trainings / Internships / Services
+   ↓
+3. Understanding Benefits & Differentiators
+   ↓
+4. Reviewing Courses & Career Paths
+   ↓
+5. Applying / Contacting / Downloading Brochure
+
+
+
+ 5. Information Architecture
+
+ Primary Navigation
+
+. Home
+. About Us
+. Trainings
+. Internship
+. Services
+. Contact Us
+. Login / Sign Up
+
+ Secondary Navigation
+
+. Corporate Training
+. College Programs
+. Software Services
+
+
+
+ 6. Design System
+
+ Color Palette
+
+. Primary: Dark Blue / Black (Professional & Tech-driven)
+. Accent: Highlight colors for CTAs
+. Neutral: White & Grey for readability
+
+ Typography
+
+. Headings: Bold, modern sans-serif
+. Body Text: Clean, readable sans-serif
+. CTAs: High-contrast emphasis
+
+ UI Principles
+
+. Career-focused storytelling
+. Clear visual hierarchy
+. Conversion-oriented layouts
+. Consistent branding
+
+
+
+ 7. Page-wise UX & UI Breakdown
+
+ 7.1 Homepage
+
+Purpose: Introduce brand & value proposition
+
+Key Sections:
+
+. Hero section (Career & learning focus)
+. Trainings & internships overview
+. What makes us different
+. Success stories
+. Associated institutions
+. Primary CTAs
+
+UX Decisions:
+
+. Aspirational messaging
+. Immediate career value communication
+. Multiple conversion entry points
+
+
+
+ 7.2 Trainings Page
+
+Content:
+
+. Available courses (Python, ML, MERN, Cybersecurity)
+. Program features
+. Placement preparation details
+
+UX Strategy:
+
+. Card-based course display
+. Clear feature comparison
+. Premium vs regular training clarity
+
+
+
+ 7.3 Internship Page
+
+Purpose: Convert visitors into applicants
+
+Key Elements:
+
+. Internship benefits
+. Role-based internship cards (UI/UX, Web Dev)
+. Application CTA & contact details
+
+UX Rationale:
+
+. Clear value over traditional internships
+. Simple apply flow
+. Role clarity
+
+
+
+ 7.4 Courses & Career Path Pages
+
+Purpose: Help users choose the right path
+
+UX Decisions:
+
+. Career-to-skill mapping
+. Step-by-step learning explanation
+. Industry relevance focus
+
+
+
+ 7.5 About Us Page
+
+Sections:
+
+. Mission & vision
+. What makes us different
+. Team overview
+
+UX Goal:
+
+. Build trust
+. Humanize the brand
+
+
+
+ 7.6 Contact & Lead Capture
+
+Forms:
+
+. Contact form
+. Training inquiry
+. Internship application
+
+UX Strategy:
+
+. Minimal required fields
+. Clear CTAs
+. Easy accessibility
+
+
+
+ 8. Accessibility & Usability Considerations
+
+. Mobile-first design
+. Clear CTA contrast
+. Readable typography
+. Simple language
+
+
+
+ 9. Conversion Strategy
+
+. Repeated CTAs (Apply, Start Journey, Download Brochure)
+. Career-focused messaging
+. Trust signals (Success stories, institutions)
+. Simple application process
+
+
+
+ 10. Tools Used
+
+. Design: Figma
+. Wireframing: Low & mid-fidelity wireframes
+. UX Research: EdTech & internship platform analysis
+
+
+
+ 11. Future Enhancements
+
+. Student dashboard
+. Progress tracking
+. AI-based career guidance
+. Community & mentorship features
+
+
+
+ 12. Conclusion
+
+This UI/UX design positions Kode Vortex as a career-first EdTech platform. By combining structured learning paths, real-world internships, and strong conversion design, the platform effectively bridges the gap between education and industry.
+
+
+
+Designed by: Sanskrati Agrawal
+Role: UI/UX Designer
