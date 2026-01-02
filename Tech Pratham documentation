@@ -1,0 +1,316 @@
+ Tech Pratham – Deep Learning Course Website
+
+
+
+ 1. Project Overview
+
+Project Name: Tech Pratham – Deep Learning Program Website
+Client Type: EdTech / Online Learning Platform
+Designer Role: UI/UX Designer (UX Strategy, Information Architecture, UI Design)
+Platform: Responsive Web (Desktop, Tablet, Mobile)
+
+ Objective
+
+To design a high-conversion, learner-focused course landing experience that clearly communicates program value, builds credibility, and motivates users to enroll in the Deep Learning program.
+
+
+
+ 2. Problem Statement
+
+Common issues in online course platforms:
+
+. Overwhelming technical content for beginners
+. Low trust in course outcomes
+. Unclear learning paths and career benefits
+. Poor conversion due to weak CTAs
+
+Design Goal: Present complex deep learning concepts in a structured, beginner-friendly manner while emphasizing outcomes, career growth, and credibility to drive enrollments.
+
+
+
+ 3. Target Users & Personas
+
+ Primary Users
+
+1. Students & Fresh Graduates – Entering AI/ML field
+2. Working Professionals – Career switch or upskilling
+3. Data Analysts / Engineers – Advancing into Deep Learning
+
+ User Needs
+
+. Clear syllabus & duration
+. Career outcomes & salary insights
+. Proof of success (metrics & testimonials)
+. Flexible learning schedule
+. Transparent pricing
+
+
+
+ 4. User Journey
+
+1. Landing on Course Page
+   ↓
+2. Understanding Course Value Proposition
+   ↓
+3. Reviewing Outcomes & Career Paths
+   ↓
+4. Exploring Curriculum & Learning Path
+   ↓
+5. Evaluating Testimonials & Metrics
+   ↓
+6. Enrollment Decision
+
+
+
+ 5. Information Architecture
+
+ Primary Navigation
+
+. Outcomes
+. Career Paths
+. Journey
+. Skills
+. Testimonials
+. FAQ
+
+ Conversion Actions
+
+. Start Your Journey
+. Enroll Now
+. Download Syllabus
+
+
+
+ 6. Design System
+
+ Color Palette
+
+. Primary: Deep Blue / Purple (Technology & Trust)
+. Accent: Yellow / Green (Growth & Success)
+. Neutral: White & Light Grey
+
+ Typography
+
+. Headings: Bold, modern sans-serif
+. Body Text: Regular, readable
+. Metrics & Stats: Large, high-contrast fonts
+
+ UI Principles
+
+. Outcome-driven design
+. Clear visual hierarchy
+. Strong CTA emphasis
+. Content chunking for readability
+
+
+
+ 7. Page-wise UX & UI Breakdown
+
+ 7.1 Hero Section
+
+Purpose: Immediate value communication
+
+Key Elements:
+
+. Course headline (Transform Your Career with Deep Learning)
+. Social proof quote
+. Primary CTA buttons
+. Key success metrics
+
+UX Decisions:
+
+. Metrics placed near hero for instant trust
+. Dual CTA for exploration and action
+
+
+
+ 7.2 Course Highlights & Program Info
+
+Content:
+
+. Duration (12 weeks)
+. Format (Part-time)
+. Pricing & discount
+. Pre-requisites
+
+UX Strategy:
+
+. Card-based layout
+. Clear comparison of original vs discounted price
+. Reduced friction with money-back guarantee
+
+
+
+ 7.3 Curriculum & Learning Path
+
+Sections:
+
+. Neural Network Foundations
+. CNNs
+. Sequence Models (RNNs, Transformers)
+. Capstone Project
+
+UX Rationale:
+
+. Progressive disclosure (Expand to explore)
+. Timeline-based mastery path
+. Clear time allocation per module
+
+
+
+ 7.4 Your Path to Mastery
+
+Purpose: Simplify complex learning journey
+
+UX Decisions:
+
+. Step-by-step numbered flow
+. Visual progression indicators
+. Focus on skill evolution
+
+
+
+ 7.5 Outcomes & Career Benefits
+
+Content:
+
+. Job placement success
+. Salary increase
+. Graduate success metrics
+
+UX Goal:
+
+. Reduce risk perception
+. Emphasize ROI of learning
+
+
+
+ 7.6 Skills You’ll Master
+
+Features:
+
+. Skill clusters
+. Proficiency indicators
+. Industry relevance
+
+UX Approach:
+
+. Skill grouping
+. Visual proficiency levels
+. Non-overwhelming presentation
+
+
+
+ 7.7 Industry Applications
+
+Industries Covered:
+
+. Healthcare
+. Finance
+. Technology
+. Marketing
+
+UX Strategy:
+
+. Real-world relevance mapping
+. Broaden appeal across domains
+
+
+
+ 7.8 Career Opportunities
+
+Roles Highlighted:
+
+. Machine Learning Engineer
+. AI Research Scientist
+. AI Product Manager
+
+UX Rationale:
+
+. Salary ranges shown clearly
+. Market demand indicators
+. Exploration CTA per role
+
+
+
+ 7.9 Testimonials & Success Stories
+
+Purpose: Trust & credibility
+
+UX Decisions:
+
+. Human-centered storytelling
+. Repetition for social proof
+
+
+
+ 7.10 FAQ Section
+
+Goal: Address objections
+
+UX Strategy:
+
+. Expandable accordion format
+. Clear, concise answers
+
+
+
+ 7.11 Final Conversion Section
+
+Elements:
+
+. Program summary
+. Benefits recap
+. Pricing & guarantee
+. Strong CTA
+
+UX Goal:
+
+. Reinforce confidence
+. Remove last-minute hesitation
+
+
+
+ 8. Accessibility & Usability Considerations
+
+. Clear readable font sizes
+. Mobile-first responsiveness
+. High contrast CTAs
+. Simple language for beginners
+
+
+
+ 9. Conversion Optimization Strategy
+
+. Repeated CTAs across sections
+. Outcome-first messaging
+. Social proof near decision points
+. Risk reversal (money-back guarantee)
+
+
+
+ 10. Tools Used
+
+. Design: Figma
+. Prototyping: Interactive web prototype
+. UX Research: EdTech & course platform benchmarking
+
+
+
+ 11. Future Enhancements
+
+. Personalized learning recommendations
+. AI mentor chatbot
+. Student dashboard integration
+. Community discussion forums
+
+
+
+ 12. Conclusion
+
+This UI/UX design balances educational clarity with strong marketing principles. By focusing on outcomes, structured learning paths, and trust-building elements, the design effectively converts visitors into confident learners.
+
+
+
+Designed by: Sanskrati Agrawal
+Role: UI/UX Designer
